@@ -11,7 +11,7 @@ Once the logistic regression is made the amount of people infected at the end of
 
 To use it just run the function ```fit_and_plot_a_country``` with the country you want to know about.
 
-```fit_and_plot_a_country```  could have 4 parameters:
+```fit_and_plot_a_country```  could have the following parameters:
 
 * ```country``` which means the name of the country as string, for example 'Spain'. Also there is a list of the countries that can be used in the notebook.
 * ```src``` if you want to use your own dataset, this must be structured with a column with the date in the format ```2020-03-19``` and the name of the country with the total cases
