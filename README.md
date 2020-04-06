@@ -18,3 +18,4 @@ To use it just run the function ```fit_and_plot_a_country``` with the country yo
 * ```cases``` which means you want to know th beahavior of the total cases in a country if true, if false it evaluates deaths.
 * ```p0_log``` first aproximation to make the logistic regression, it is a list like [5,73,20000]
 * ```p0_exp``` first aproximation to make the exponential regression, it is a list like [1,1,1]
+* ```predictions``` to make predictions if it is True
